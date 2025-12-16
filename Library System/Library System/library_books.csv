@@ -1,0 +1,5 @@
+Code,Title,Author,Year,Publisher,Category,Status,Borrowed By
+100,"Python Crash Course","Eric Matthes",2023,"Eric Matthes","Python",Available,""
+101,"Core Python Programming","Wesley J. Chun",2006,"Wesley J. Chun","Python",Available,""
+102,"The C++ Programming Language","Bjarne Stroustrup",2013,"Addison Wesley ","C++",Borrowed,"Mohamed"
+103,"Effective Java","Joshua Bloch",2008,"Addison Wesley ","Java",Borrowed,"Ahmed"
